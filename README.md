@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Maria Zorkaltseva's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=mariazork.mariazork)
+
 <br/>
 
 - 🔭 I’m currently working on account hacking protection project at Huawei
@@ -47,7 +49,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
 
 ![Maria Zorkaltseva's github stats](https://github-readme-stats.vercel.app/api?username=mariazork&show_icons=true&hide_border=true)
