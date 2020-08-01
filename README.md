@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
 <a href="https://www.linkedin.com/in/maria-zorkaltseva/">
   <img align="left" alt="Maria Zorkaltseva's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/maria_zorkaltseva">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Maria Zorkaltseva's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://leetcode.com/mariazork/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Maria Zorkaltseva's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 <br/>
