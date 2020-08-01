@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Maria Zorkaltseva.
 
 Currently working as Machine Learning Engineer at Huawei.
-
+<br/>
 <!--
 **MariaZork/mariazork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="center">
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
@@ -59,7 +58,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-</p>
+
 
 <details>
 <summary>Click for GitHub Stats</summary>
