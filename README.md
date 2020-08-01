@@ -23,9 +23,7 @@ Currently working as Machine Learning Engineer at Huawei.
   <img align="center" alt="Maria Zorkaltseva's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-### Languages and Tools: 
-
-<br/>
+### Languages and Tools:
 
 **Programming languages**
 <br/>
