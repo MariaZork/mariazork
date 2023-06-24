@@ -113,8 +113,8 @@ Currently working as Machine Learning Engineer at Huawei.
 <p align="center">
     <img alt = "Maria Zorkaltseva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariazork&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br/>
-    <img alt = "Maria Zorkaltseva's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariazork&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-    <br/>
-    <img alt = "Maria Zorkaltseva's Github Visitors" src="https://badges.pufler.dev/visits/mariazork/">  
+    <img alt = "Maria Zorkaltseva's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariazork&hide=html,&hide_border=true&title_color=5391FE&text_color=555"> 
 </p>
 </details>
+
+[![Visits Badge](https://badges.pufler.dev/visits/mariazork/badge-it)](https://github.com/MariaZork/)
