@@ -115,6 +115,6 @@ Currently working as Machine Learning Engineer at Huawei.
     <br/>
     <img alt = "Maria Zorkaltseva's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariazork&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
     <br/>
-    <img alt = "Maria Zorkaltseva's Github Visitors" src="https://visitor-badge.glitch.me/badge?page_id=MariaZork.mariazork">  
+    <img alt = "Maria Zorkaltseva's Github Visitors" src="https://badges.pufler.dev/visits/mariazork/">  
 </p>
 </details>
