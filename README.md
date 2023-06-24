@@ -118,3 +118,7 @@ Currently working as Machine Learning Engineer at Huawei.
 </details>
 
 [![Visits Badge](https://badges.pufler.dev/visits/mariazork/badge-it)](https://mariazork.github.io/)
+
+### Last starred repositories
+
+[![Last Stars Display](https://badges.pufler.dev/last-stars/mariazork?count=6&padding=15&perRow=3)](https://mariazork.github.io/)
