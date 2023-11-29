@@ -13,22 +13,6 @@ Currently working as Machine Learning Engineer at Huawei.
 
 ### Social Media
 
- <a href="https://twitter.com/MZorkaltseva" title='Twitter'>
-    <img align="left" alt="Maria Zorkaltseva | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
-</a>
-
- <a href="https://www.linkedin.com/in/maria-zorkaltseva/" title='Linkedin'>
-    <img align="left" alt="Maria Zorkaltseva's LinkdeIN" src="https://img.icons8.com/color/32/000000/linkedin.png" />
-</a>
-
- <a href="https://vk.com/id34226086" title='VK'>
-    <img align="left" alt="Maria Zorkaltseva's VK" src="https://img.icons8.com/fluent/32/000000/vk-com.png"/>
-</a>
-
-<a href="https://t.me/maria_zorkaltseva" title='Telegram'>
-    <img align="left" alt="Maria Zorkaltseva's Telegram" src="https://img.icons8.com/fluent/32/000000/telegram-app.png" />
-</a>
-
 <a href="https://stackoverflow.com/users/12705601/maria-zorkaltseva" title='stackoverflow'>
     <img align="left" alt="Maria Zorkaltseva's stackoverflow" src="https://img.icons8.com/color/32/000000/stackoverflow.png" />
 </a>
@@ -38,26 +22,6 @@ Currently working as Machine Learning Engineer at Huawei.
 </a>
 
  <br /><br />
-
-### Learning Platforms and Competitive Programming
-
-<a href="https://www.coursera.org/user/2d5dd5a6b58ffcb31297e283cf549320" title='Coursera'>
-    <img align="left" alt="Maria Zorkaltseva's Coursera profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
-</a>
-
-<a href="https://leetcode.com/mariazork/" title='Leetcode'>
-  <img align="center" alt="Maria Zorkaltseva's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-
-<a href="https://www.hackerrank.com/maria_zorkaltse1" title='Hackerrank'>
-    <img align="left" alt="Maria Zorkaltseva's hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/fear2029/" title='geeksforgeeks'>
-    <img align="left" alt="Maria Zorkaltseva's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
-</a>
-
-<br />
 
 ### Languages and Tools
 
