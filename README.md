@@ -1,17 +1,24 @@
 ### Hello there 👋 I'm Maria Zorkaltseva
 
-Currently working as Machine Learning Engineer at Huawei.
+**Machine Learning Engineer · MLOps · LLM Engineering · Edge AI**
+ 
+14+ years of experience in applied AI across **healthcare**, **cybersecurity**, **IoT/RF sensing**. I design and deploy end-to-end ML systems - from research prototyping to production at scale. Author of **19 peer-reviewed publications**.
 
-- 🔭 I’m currently working on account hacking protection project at Huawei
-- 🌱 I’m currently learning Machine learning :)
-- 👯 I’m looking to collaborate on Open Source NLP and CV projects
-- 🤔 I’m looking for help with SEO optimization of my blog
-- 💬 Ask me about mathematics undestanding under Machine learning algorithms
-- ⚡ Fun fact: In addition to spending time programming and researching in machine learning, I devote my free time to studying jazz improvisation on the piano. My favorite jazz pianists are Oscar Peterson and Erroll Garner.
+## 🔬 Current Interests & Projects
+ 
+- **LLM Engineering** — Fine-tuning with LoRA/QLoRA, RAG, LangGraph agent orchestration, MCP integrations
+- **Wi-Fi CSI / RF Sensing** — Activity recognition and indoor localization (`rf-sense` library, WIP)
+- **Medical Imaging** — WSI pathology pipelines: segmentation, tiling, RLE encoding, UNet architectures
+- **Physics-Informed ML** — PINNs for biomechanical modeling, Koopman operator + Transformer hybrids
+- **Data Engineering** — Streaming pipelines, BigQuery, dbt, Kestra, dlt
 
-<hr>
+## 📚 Publications
+ 
+19 peer-reviewed publications in **IEEE**, **Review of Scientific Instruments**, **Laser and Particle Beams**, and **Instruments and Experimental Techniques** — spanning RF/UWB antenna systems, ML for cybersecurity, and medical imaging.
+ 
+→ [Google Scholar](https://scholar.google.com/citations?user=kJHS8ygAAAAJ&hl=en)
 
-### Social Media
+## Social Media
 
 <a href="https://stackoverflow.com/users/12705601/maria-zorkaltseva" title='stackoverflow'>
     <img align="left" alt="Maria Zorkaltseva's stackoverflow" src="https://img.icons8.com/color/32/000000/stackoverflow.png" />
@@ -86,6 +93,10 @@ Currently working as Machine Learning Engineer at Huawei.
 [![Gists Badge](https://badges.pufler.dev/gists/mariazork)](https://mariazork.github.io/)
 [![Visits Badge](https://badges.pufler.dev/visits/mariazork/badge-it)](https://mariazork.github.io/)
 
-### Last starred repositories
+## Last starred repositories
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/mariazork?count=6&padding=15&perRow=3)](https://mariazork.github.io/)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=mariazork&style=flat)
+
