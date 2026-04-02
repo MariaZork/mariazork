@@ -1,27 +1,37 @@
-### Hello there 👋 I'm Maria Zorkaltseva
+## Hello there 👋 I'm Maria Zorkaltseva
 
 **Machine Learning Engineer · MLOps · LLM Engineering · Edge AI**
  
 14+ years of experience in applied AI across **healthcare**, **cybersecurity**, **IoT/RF sensing**. I design and deploy end-to-end ML systems - from research prototyping to production at scale. Author of **19 peer-reviewed publications**.
 
-## 🔬 Current Interests & Projects
+### 🧩 Current R&D & Projects
  
-- **LLM Engineering** — Fine-tuning with LoRA/QLoRA, RAG, LangGraph agent orchestration, MCP integrations
-- **Wi-Fi CSI / RF Sensing** — Activity recognition and indoor localization (`rf-sense` library, WIP)
-- **Medical Imaging** — WSI pathology pipelines: segmentation, tiling, RLE encoding, UNet architectures
-- **Physics-Informed ML** — PINNs for biomechanical modeling, Koopman operator + Transformer hybrids
-- **Data Engineering** — Streaming pipelines, BigQuery, dbt, Kestra, dlt
+- **LLM Engineering** - Fine-tuning with LoRA/QLoRA, RAG, LangGraph agent orchestration, MCP integrations
+- **Wi-Fi CSI / RF Sensing** - Activity recognition and indoor localization
+- **Medical Imaging** - WSI pathology pipelines: segmentation, tiling, RLE encoding, UNet architectures
+- **Physics-Informed ML** - PINNs for biomechanical modeling, Koopman operator + Transformer hybrids
+- **Data Engineering** - Streaming pipelines, BigQuery, dbt, Kestra, dlt
 
-## 📚 Publications
+### 🔬 Research & Industry Interests
+
+- **Edge AI & IoT**: on-edge intelligence, distributed IoT systems, sensor-driven applications  
+- **HealthTech & BioTech**: histology, radiology, medical imaging, AI for personalized medicine, drug discovery and investigation, multimodal biological data
+- **Multi-Omics & Computational Biology**: integrating genomics, transcriptomics, proteomics, and other biological signals  
+- **Cybersecurity**: fraud detection, account takeover prevention, malware detection, adversarial ML  
+- **LegalTech**: NLP for legal documents, semantic search, knowledge extraction  
+- **Quantitative Engineering**: time series modeling, optimization, stochastic calculus, derivative pricing models, portfolio optimization
+- **Chess**: Stockfish's heuristics, AlphaZero’s neural networks, analytics and AI chess coaching
+
+### 📚 Publications
  
 19 peer-reviewed publications in **IEEE**, **Review of Scientific Instruments**, **Laser and Particle Beams**, and **Instruments and Experimental Techniques** — spanning RF/UWB antenna systems, ML for cybersecurity, and medical imaging.
  
 → [Google Scholar](https://scholar.google.com/citations?user=kJHS8ygAAAAJ&hl=en)
 
-## Social Media
+### 📫 Connect with me:
 
-<a href="https://stackoverflow.com/users/12705601/maria-zorkaltseva" title='stackoverflow'>
-    <img align="left" alt="Maria Zorkaltseva's stackoverflow" src="https://img.icons8.com/color/32/000000/stackoverflow.png" />
+<a href="https://www.linkedin.com/in/maria-zorkaltseva/" title='LinkedIn'>
+    <img align="left" alt="Maria Zorkaltseva's LinkedIn" src="https://img.icons8.com/color/32/000000/linkedin.png" style="margin-left: 10px;" />
 </a>
 
 <a href="https://medium.com/@maria.zorkaltseva" title='Medium'>
