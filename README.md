@@ -120,24 +120,6 @@
 
 <br/>
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "Maria Zorkaltseva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariazork&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br/>
-    <img alt = "Maria Zorkaltseva's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariazork&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-</p>
-</details>
-
-[![Years Badge](https://badges.pufler.dev/years/mariazork)](https://mariazork.github.io/)
-[![Repos Badge](https://badges.pufler.dev/repos/mariazork)](https://mariazork.github.io/)
-[![Gists Badge](https://badges.pufler.dev/gists/mariazork)](https://mariazork.github.io/)
-[![Visits Badge](https://badges.pufler.dev/visits/mariazork/badge-it)](https://mariazork.github.io/)
-
-## Last starred repositories
-
-[![Last Stars Display](https://badges.pufler.dev/last-stars/mariazork?count=6&padding=15&perRow=3)](https://mariazork.github.io/)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=mariazork&style=flat)
-
+![Profile Views](https://komarev.com/ghpvc/?username=mariazork&style=flat-square&color=005571&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/mariazork?style=flat-square&color=005571&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/mariazork?style=flat-square&color=005571&label=Stars)
