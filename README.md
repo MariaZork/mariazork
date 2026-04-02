@@ -45,47 +45,78 @@
 **Programming languages**
 <br/>
 ![Python](https://img.shields.io/badge/-Python-005571?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-005571?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C%2B%2B-005571?style=flat-square&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-005571?style=flat-square&logo=databricks)
+![Java](https://img.shields.io/badge/-Java-005571?style=flat-square&logo=java)
+![Bash](https://img.shields.io/badge/-Bash-005571?style=flat-square&logo=gnubash)
 
-**Machine learning frameworks and libraries**
+**ML / DL**
 <br/>
-![Tensorflow](https://img.shields.io/badge/-tensorflow-005571?style=flat-square&logo=tensorflow)
-![Pytorch](https://img.shields.io/badge/-pytorch-005571?style=flat-square&logo=pytorch)
+![PyTorch](https://img.shields.io/badge/-PyTorch-005571?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-005571?style=flat-square&logo=tensorflow)
 ![numpy](https://img.shields.io/badge/-numpy-005571?style=flat-square&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-005571?style=flat-square&logo=pandas)
 ![scipy](https://img.shields.io/badge/-scipy-005571?style=flat-square&logo=scipy)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-005571?style=flat-square&logo=matplotlib)
-![sklearn](https://img.shields.io/badge/-sklearn-005571?style=flat-square&logo=sklearn)
-![nltk](https://img.shields.io/badge/-nltk-005571?style=flat-square&logo=nltk)
-![spacy](https://img.shields.io/badge/-spacy-005571?style=flat-square&logo=spacy)
-![gensim](https://img.shields.io/badge/-gensim-005571?style=flat-square&logo=gensim)
-![opencv](https://img.shields.io/badge/-opencv-005571?style=flat-square&logo=opencv)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-005571?style=flat-square&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-005571?style=flat-square&logo=opencv)
+![XGBoost](https://img.shields.io/badge/-XGBoost-005571?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-005571?style=flat-square&logo=huggingface)
 
-**DataBases**
+**LLMs & GenAI**
+![LangGraph](https://img.shields.io/badge/-LangGraph-005571?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-005571?style=flat-square)
+![LoRA/QLoRA](https://img.shields.io/badge/-LoRA%2FQLoRA-005571?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-005571?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-005571?style=flat-square)
+![VLM](https://img.shields.io/badge/-VLM-005571?style=flat-square)
+
+**Data Engineering & Databases**
 <br/>
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![BigQuery](https://img.shields.io/badge/-BigQuery-005571?style=flat-square&logo=googlecloud)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-005571?style=flat-square&logo=postgresql)
+![Pinecone](https://img.shields.io/badge/-Pinecone-005571?style=flat-square&logo=pinecone)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![dbt](https://img.shields.io/badge/-dbt-005571?style=flat-square&logo=dbt)
+![Kafka](https://img.shields.io/badge/-Kafka-005571?style=flat-square&logo=apachekafka)
+![Kestra](https://img.shields.io/badge/-Kestra-005571?style=flat-square)
 
-**Backend**
+**MLOps & Cloud Infrastructure**
 <br/>
-![Flask](https://img.shields.io/badge/-flask-005571?style=flat-square&logo=flask)
-
-**Frontend**
-<br/>
-![css3](https://img.shields.io/badge/-css3-005571?style=flat-square&logo=css3)
-![html5](https://img.shields.io/badge/-html5-005571?style=flat-square&logo=html5)
-![bootstrap](https://img.shields.io/badge/-bootstrap-005571?style=flat-square&logo=bootstrap)
-
-**Other**
-<br/>
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-005571?style=flat-square&logo=google-cloud)
-![Jupyter](https://img.shields.io/badge/-jupyter-005571?style=flat-square&logo=jupyter)
-![Grafana](https://img.shields.io/badge/-grafana-005571?style=flat-square&logo=grafana)
-![Jekyll](https://img.shields.io/badge/-jekyll-005571?style=flat-square&logo=jekyll)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-005571?style=flat-square&logo=google-cloud)
+![VertexAI](https://img.shields.io/badge/-VertexAI-005571?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-005571?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-005571?style=flat-square&logo=docker)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-005571?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-005571?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-005571?style=flat-square&logo=terraform)
+![MLflow](https://img.shields.io/badge/-MLflow-005571?style=flat-square&logo=mlflow)
+![Grafana](https://img.shields.io/badge/-Grafana-005571?style=flat-square&logo=grafana)
+
+**Edge Inference**
+<br/>
+![TFLite](https://img.shields.io/badge/-TFLite-005571?style=flat-square)
+![ONNX](https://img.shields.io/badge/-ONNX-005571?style=flat-square&logo=onnx)
+![ESP32](https://img.shields.io/badge/-ESP32-005571?style=flat-square)
+
+**Backend & API**
+<br/>
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi)
+![gRPC](https://img.shields.io/badge/-gRPC-005571?style=flat-square&logo=grpc)
+
+**Frontend & AI Dashboards**
+<br/>
+![React](https://img.shields.io/badge/-React-005571?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-005571?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-005571?style=flat-square&logo=tailwindcss)
+![Streamlit](https://img.shields.io/badge/-Streamlit-005571?style=flat-square&logo=streamlit)
+![Vercel](https://img.shields.io/badge/-Vercel-005571?style=flat-square&logo=vercel)
+
+**Developer Tools**
+<br/>
 ![Git](https://img.shields.io/badge/-Git-005571?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-005571?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-005571?style=flat-square&logo=gitlab)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-005571?style=flat-square&logo=github-actions)
+![Jupyter](https://img.shields.io/badge/-Jupyter-005571?style=flat-square&logo=jupyter)
 
 <br/>
 
