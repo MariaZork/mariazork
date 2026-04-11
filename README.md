@@ -64,6 +64,7 @@
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-005571?style=flat-square&logo=huggingface)
 
 **LLMs & GenAI**
+<br/>
 ![LangGraph](https://img.shields.io/badge/-LangGraph-005571?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-005571?style=flat-square)
 ![LoRA/QLoRA](https://img.shields.io/badge/-LoRA%2FQLoRA-005571?style=flat-square)
